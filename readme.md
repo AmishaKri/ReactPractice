@@ -1,2 +1,2 @@
 This repository contains all Reactjs Practice projects.
-Thanks to @Hitesh Choudhary Sir for  craeting best React Course.
+Thanks to @Hitesh Choudhary Sir for  creating best React Course.
