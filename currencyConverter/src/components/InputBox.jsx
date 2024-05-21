@@ -37,7 +37,8 @@ function InputBox({
                     onChange={(e) => onCurrencyChange && onCurrencyChange(e.target.value)}
                     disabled={currencyDisable}
                 >
-                    
+                    console.log(currencyOptions);
+
                         {currencyOptions.map((currency) => (
                             <option key={currency} value={currency}>
                             {currency}

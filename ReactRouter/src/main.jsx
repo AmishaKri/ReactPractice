@@ -33,7 +33,7 @@ import Github ,{githubInfoLoader} from './components/Github/Github.jsx'
 //   }
 // ])
 
-const router =createBrowserRouter(
+const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element={<Layout/>}>
       <Route path='/home' element={<Home/>}/>
